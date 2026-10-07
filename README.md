@@ -1,6 +1,6 @@
 # HR Analytics Power Bi Dashboard 
 ## Project Overview 
-This project is an HR Analytics dashboard created using Microsoft Pow
+This project is an HR Analytics dashboard created using Microsoft PowerBI
 ## Dashboard 
 The dashboard provides insights into:
 
